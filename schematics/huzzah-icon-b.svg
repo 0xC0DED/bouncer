@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="1.51in"
+   height="1in"
+   viewBox="0 0 108.71992 72.000037"
+   id="svg6510"
+   sodipodi:docname="huzzah-icon-b.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata6516">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6514" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1563"
+     inkscape:window-height="845"
+     id="namedview6512"
+     showgrid="true"
+     inkscape:zoom="4.718543"
+     inkscape:cx="94.111782"
+     inkscape:cy="54.691269"
+     inkscape:window-x="37"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6510">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7105"
+       spacingx="0.037499973"
+       spacingy="0.037500021" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#337380;stroke-width:0.99064386"
+     inkscape:connector-curvature="0"
+     id="Huzzah_PCB"
+     gorn="0.1.0.0.0.0.0"
+     d="M 0,72.101659 H 48.92031 59.798746 108.72006 V 0.101616 L 0,0.1020068 Z" />
+  <path
+     style="fill:#ffffff;stroke-width:1.51834619"
+     inkscape:connector-curvature="0"
+     id="Adafruit_logo"
+     gorn="0.1.0.0.0.0.4"
+     d="m 23.907832,13.754821 c -0.05314,-0.337073 -0.236862,-0.432729 -0.677182,-0.575452 -0.335555,-0.107802 -2.582707,-0.822958 -2.582707,-0.822958 0,0 -1.566933,-0.593672 -2.728468,0.244467 -0.15639,0.112358 -0.315816,0.241417 -0.479798,0.378068 0.136652,-0.162463 0.264193,-0.324926 0.378069,-0.481329 0.833572,-1.163053 0.241417,-2.7269622 0.241417,-2.7269622 0,0 -0.721215,-2.2456439 -0.829017,-2.5827168 -0.142725,-0.4403199 -0.238381,-0.6225214 -0.576972,-0.6756635 -0.338591,-0.053142 -0.485871,0.091101 -0.756136,0.4676506 -0.204977,0.2854638 -1.582117,2.2016136 -1.582117,2.2016136 0,0 -1.044622,1.3073073 -0.608857,2.6707813 0.05922,0.183735 0.130578,0.376565 0.21105,0.57395 -0.112357,-0.180684 -0.227752,-0.350738 -0.341628,-0.508661 -0.847237,-1.152424 -2.520454,-1.070433 -2.520454,-1.070433 0,0 -2.3579934,-0.01063 -2.7117689,-0.01063 -0.4630956,-0.0015 -0.666554,0.0334 -0.8214253,0.33859 -0.1548713,0.305187 -0.06377,0.490427 0.2110501,0.863953 0.2080134,0.285449 1.6064125,2.184913 1.6064125,2.184913 0,0 0.9201176,1.398395 2.3504006,1.404468 0.191311,0.0015 0.397806,-0.0076 0.608856,-0.02429 -0.206495,0.05162 -0.40388,0.106284 -0.586081,0.167016 -1.35892,0.450949 -1.7977224,2.064963 -1.7977224,2.064963 0,0 -0.7379167,2.242608 -0.8487564,2.575126 -0.1442429,0.441839 -0.1746098,0.646815 0.068326,0.886714 0.2414149,0.241432 0.4463916,0.212584 0.8867118,0.06681 0.334036,-0.109321 2.573597,-0.851807 2.573597,-0.851807 0,0 1.61552,-0.443357 2.061914,-1.803807 0.05922,-0.180684 0.115394,-0.379587 0.1655,-0.586082 -0.01518,0.212568 -0.02278,0.416027 -0.02126,0.608857 0.0076,1.430294 1.407507,2.348893 1.407507,2.348893 0,0 1.904006,1.392339 2.187936,1.601871 0.37655,0.273302 0.561788,0.364403 0.863939,0.208013 0.306706,-0.154871 0.34011,-0.356811 0.337073,-0.821425 0,-0.350738 -0.01518,-2.710262 -0.01518,-2.710262 0,0 0.07895,-1.673229 -1.076508,-2.518947 -0.154871,-0.112357 -0.324926,-0.227751 -0.505609,-0.340109 0.197385,0.08047 0.390215,0.151835 0.572417,0.209532 1.363474,0.434247 2.669252,-0.613411 2.669252,-0.613411 0,0 1.913116,-1.37867 2.198565,-1.585165 0.37655,-0.270281 0.520793,-0.419079 0.467651,-0.75615 z M 15.78468,12.019353 c 0.256601,0.03948 0.384142,0.587598 0.285449,1.222269 -0.09869,0.634682 -0.388696,1.115996 -0.646815,1.075001 -0.258119,-0.03948 -0.38566,-0.587599 -0.285449,-1.222281 0.09869,-0.634669 0.388696,-1.115984 0.646815,-1.074989 z m -3.294811,1.680808 c 0.116913,-0.230789 0.677182,-0.18372 1.249599,0.106284 0.572416,0.290002 0.939856,0.716658 0.822943,0.947446 -0.118431,0.232306 -0.677182,0.18372 -1.251117,-0.104766 -0.570898,-0.291521 -0.941374,-0.715139 -0.821425,-0.948964 z m 1.736988,3.164227 c -0.453986,0.455504 -0.971742,0.672626 -1.15698,0.490424 -0.185238,-0.185237 0.03492,-0.702993 0.488908,-1.156977 0.452467,-0.455503 0.970223,-0.674144 1.153943,-0.490425 0.186756,0.186756 -0.0334,0.702992 -0.485871,1.156978 z m 2.499198,1.065877 c -0.230789,0.116913 -0.657444,-0.250527 -0.948967,-0.821423 -0.291522,-0.572432 -0.341628,-1.1327 -0.107802,-1.251131 0.230788,-0.116913 0.657444,0.250527 0.948966,0.821439 0.291523,0.572416 0.338591,1.132684 0.107803,1.251115 z m 0.602783,-2.649509 c -0.63315,0.100211 -1.182792,-0.02581 -1.223787,-0.283931 -0.041,-0.256599 0.441839,-0.546603 1.074989,-0.648332 0.634669,-0.100211 1.181273,0.02581 1.222269,0.282412 0.04099,0.258119 -0.440321,0.54964 -1.073471,0.649851 z" />
+  <g
+     id="ESP-12"
+     transform="matrix(1.1711623,0,0,1.1711623,-18.252337,-6.9164455)">
+    <rect
+       y="20.803003"
+       x="37.358002"
+       gorn="0.1.0.0.0.0.1"
+       height="31.856199"
+       id="ESP-12_PCB"
+       width="70.867104"
+       style="fill:#285a63" />
+    <g
+       id="Wifi_Antenna"
+       gorn="0.1.0.0.0.0.2.0.0.0.0"
+       transform="matrix(0,-1,1.21906,0,-107.10847,-352.7165)">
+      <path
+         style="fill:#9a916c"
+         inkscape:connector-curvature="0"
+         id="path4088"
+         gorn="0.1.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0"
+         d="m -378.14,157.595 v 16.1711 c -0.065,0.53 -0.284,0.977 -1.034,1.14801 h -1.867 c -0.742,-0.078 -0.904,-0.458 -0.898,-0.92501 v -6.95303 h -1.267 v 6.98403 c -0.01,0.50501 -0.281,0.82601 -1,0.79801 h -1.731 c -0.849,-0.058 -0.993,-0.415 -1,-0.83001 v -7.04803 h -1.067 v 7.01603 c -0.031,0.52401 -0.228,0.74201 -0.899,0.79801 h -2 c -0.531,-0.023 -0.87,-0.266 -0.933,-0.82901 v -6.88903 h -1.301 v 6.79403 c -0.027,0.50101 -0.351,0.80601 -1.132,0.79701 h -7.28001 c -0.653,-0.059 -1.152,-0.317 -1.119,-1.27101 h 8.10001 v -7.14903 c 0.007,-0.423 0.233,-0.621 0.65,-0.622 h 2.85 c 0.313,0.04 0.54,0.181 0.574,0.55 v 7.18404 h 1.258 v -6.98403 c -0.067,-0.451 0.067,-0.679 0.409,-0.679 h 2.557 c 0.371,0.025 0.752,0.026 0.786,0.753 v 7.26104 h 0.98 v -7.46304 c 0.071,-0.45 0.288,-0.487 0.516,-0.495 h 2.75 c 0.448,-0.014 0.665,0.209 0.675,0.646 v 7.34304 h 1.258 v -11.2591 h -14.129 c -1.154,0.01 -1.034,-0.311 -1.07,-0.591 -0.086,-0.64001 0.532,-0.66401 1.187,-0.65601 h 13.979 v -3.63302 z" />
+    </g>
+    <g
+       id="Cover">
+      <rect
+         y="22.826014"
+         x="38.981003"
+         gorn="0.1.0.0.0.0.3"
+         height="27.9741"
+         stroke-miterlimit="1"
+         id="AI_Thinker_Metal_Cover"
+         width="42.789001"
+         style="fill:#cccccf;stroke:#000000;stroke-width:0.3554;stroke-miterlimit:1" />
+      <text
+         style="font-size:5px;font-family:OCRA"
+         id="text6031"
+         font-size="5"
+         x="42.967999"
+         y="29.871">Adafruit</text>
+      <text
+         style="font-size:5px;font-family:OCRA"
+         id="text6067"
+         font-size="5"
+         x="42.967999"
+         y="47.870998">Breakout</text>
+      <text
+         style="font-size:5px;font-family:OCRA"
+         id="text6055"
+         font-size="5"
+         x="42.967999"
+         y="41.870998">ESP8266</text>
+      <text
+         style="font-size:5px;font-family:OCRA"
+         id="text6043"
+         font-size="5"
+         x="42.967999"
+         y="35.870998">HUZZAH</text>
+    </g>
+  </g>
+  <g
+     id="g1089">
+    <g
+       transform="translate(-110.015,-441.2046)"
+       id="g6082">
+      <circle
+         cy="506.29199"
+         cx="200.181"
+         r="1.196"
+         id="circle6079"
+         style="fill:#383938" />
+      <circle
+         cy="506.29199"
+         gorn="0.1.0.0.0.0.9.1"
+         cx="200.181"
+         id="connector11pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="translate(-110.015,-441.2046)"
+       id="g6087">
+      <circle
+         cy="506.29199"
+         cx="192.981"
+         r="1.196"
+         id="circle6084"
+         style="fill:#383938" />
+      <circle
+         cy="506.29199"
+         gorn="0.1.0.0.0.0.10.1"
+         cx="192.981"
+         id="connector12pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="translate(-110.015,-441.2046)"
+       id="g6092">
+      <circle
+         cy="506.26401"
+         cx="185.78101"
+         r="1.196"
+         id="circle6089"
+         style="fill:#383938" />
+      <circle
+         cy="506.26401"
+         gorn="0.1.0.0.0.0.11.1"
+         cx="185.78101"
+         id="connector13pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="translate(-110.015,-441.2046)"
+       id="g6097">
+      <circle
+         cy="506.26401"
+         cx="178.58099"
+         r="1.196"
+         id="circle6094"
+         style="fill:#383938" />
+      <circle
+         cy="506.26401"
+         gorn="0.1.0.0.0.0.12.1"
+         cx="178.58099"
+         id="connector14pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="translate(-110.015,-441.2046)"
+       id="g6102">
+      <circle
+         cy="506.29199"
+         cx="171.381"
+         r="1.196"
+         id="circle6099"
+         style="fill:#383938" />
+      <circle
+         cy="506.29199"
+         gorn="0.1.0.0.0.0.13.1"
+         cx="171.381"
+         id="connector15pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="translate(-110.015,-441.2046)"
+       id="g6107">
+      <circle
+         cy="506.293"
+         cx="164.181"
+         r="1.196"
+         id="circle6104"
+         style="fill:#383938" />
+      <circle
+         cy="506.293"
+         gorn="0.1.0.0.0.0.14.1"
+         cx="164.181"
+         id="connector16pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="translate(-110.015,-441.2046)"
+       id="g6112">
+      <circle
+         cy="506.293"
+         cx="156.981"
+         r="1.196"
+         id="circle6109"
+         style="fill:#383938" />
+      <circle
+         cy="506.293"
+         gorn="0.1.0.0.0.0.15.1"
+         cx="156.981"
+         id="connector17pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="translate(-110.015,-441.2046)"
+       id="g6117">
+      <circle
+         cy="506.293"
+         cx="149.78101"
+         r="1.196"
+         id="circle6114"
+         style="fill:#383938" />
+      <circle
+         cy="506.293"
+         gorn="0.1.0.0.0.0.16.1"
+         cx="149.78101"
+         id="connector18pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="translate(-110.015,-441.2046)"
+       id="g6122">
+      <circle
+         cy="506.293"
+         cx="142.582"
+         r="1.196"
+         id="circle6119"
+         style="fill:#383938" />
+      <circle
+         cy="506.293"
+         gorn="0.1.0.0.0.0.17.1"
+         cx="142.582"
+         id="connector19pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="translate(-110.015,-441.2046)"
+       id="g6127">
+      <circle
+         cy="506.29199"
+         cx="135.381"
+         r="1.196"
+         id="circle6124"
+         style="fill:#383938" />
+      <circle
+         cy="506.29199"
+         gorn="0.1.0.0.0.0.18.1"
+         cx="135.381"
+         id="connector20pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+  </g>
+  <g
+     id="g9679"
+     transform="translate(0,3.3618475)">
+    <g
+       transform="translate(-110.015,-437.288)"
+       id="g6132">
+      <circle
+         cy="441.51801"
+         cx="200.181"
+         r="1.196"
+         id="circle6129"
+         style="fill:#383938" />
+      <circle
+         cy="441.51801"
+         gorn="0.1.0.0.0.0.19.1"
+         cx="200.181"
+         id="connector10pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="translate(-110.015,-437.288)"
+       id="g6137">
+      <circle
+         cy="441.51801"
+         cx="192.981"
+         r="1.196"
+         id="circle6134"
+         style="fill:#383938" />
+      <circle
+         cy="441.51801"
+         gorn="0.1.0.0.0.0.20.1"
+         cx="192.981"
+         id="connector9pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="translate(-110.015,-437.288)"
+       id="g6142">
+      <circle
+         cy="441.491"
+         cx="185.78101"
+         r="1.196"
+         id="circle6139"
+         style="fill:#383938" />
+      <circle
+         cy="441.491"
+         gorn="0.1.0.0.0.0.21.1"
+         cx="185.78101"
+         id="connector8pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="translate(-110.015,-437.288)"
+       id="g6147">
+      <circle
+         cy="441.491"
+         cx="178.58099"
+         r="1.196"
+         id="circle6144"
+         style="fill:#383938" />
+      <circle
+         cy="441.491"
+         gorn="0.1.0.0.0.0.22.1"
+         cx="178.58099"
+         id="connector7pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="translate(-110.015,-437.288)"
+       id="g6152">
+      <circle
+         cy="441.51801"
+         cx="171.381"
+         r="1.196"
+         id="circle6149"
+         style="fill:#383938" />
+      <circle
+         cy="441.51801"
+         gorn="0.1.0.0.0.0.23.1"
+         cx="171.381"
+         id="connector6pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="translate(-110.015,-437.288)"
+       id="g6157">
+      <circle
+         cy="441.51901"
+         cx="164.181"
+         r="1.196"
+         id="circle6154"
+         style="fill:#383938" />
+      <circle
+         cy="441.51901"
+         gorn="0.1.0.0.0.0.24.1"
+         cx="164.181"
+         id="connector5pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="translate(-110.015,-437.288)"
+       id="g6162">
+      <circle
+         cy="441.51901"
+         cx="156.981"
+         r="1.196"
+         id="circle6159"
+         style="fill:#383938" />
+      <circle
+         cy="441.51901"
+         gorn="0.1.0.0.0.0.25.1"
+         cx="156.981"
+         id="connector4pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="translate(-110.015,-437.288)"
+       id="g6167">
+      <circle
+         cy="441.51901"
+         cx="149.78101"
+         r="1.196"
+         id="circle6164"
+         style="fill:#383938" />
+      <circle
+         cy="441.51901"
+         gorn="0.1.0.0.0.0.26.1"
+         cx="149.78101"
+         id="connector3pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="translate(-110.015,-437.288)"
+       id="g6172">
+      <circle
+         cy="441.51901"
+         cx="142.582"
+         r="1.196"
+         id="circle6169"
+         style="fill:#383938" />
+      <circle
+         cy="441.51901"
+         gorn="0.1.0.0.0.0.27.1"
+         cx="142.582"
+         id="connector2pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="translate(-110.015,-437.288)"
+       id="g6177">
+      <circle
+         cy="441.51801"
+         cx="135.381"
+         r="1.196"
+         id="circle6174"
+         style="fill:#383938" />
+      <circle
+         cy="441.51801"
+         gorn="0.1.0.0.0.0.28.1"
+         cx="135.381"
+         id="connector1pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+  </g>
+  <g
+     id="g9821"
+     transform="translate(-0.15822535,7.31748)">
+    <g
+       transform="translate(-110.015,-437.288)"
+       id="g6182">
+      <circle
+         cy="484.69101"
+         cx="113.769"
+         r="1.196"
+         id="circle6179"
+         style="fill:#383938" />
+      <circle
+         cy="484.69101"
+         gorn="0.1.0.0.0.0.29.1"
+         cx="113.769"
+         id="connector21pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="translate(-110.015,-437.288)"
+       id="g6187">
+      <circle
+         cy="470.29199"
+         cx="113.796"
+         r="1.196"
+         id="circle6184"
+         style="fill:#383938" />
+      <circle
+         cy="470.29199"
+         gorn="0.1.0.0.0.0.30.1"
+         cx="113.796"
+         id="connector22pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="translate(-110.015,-437.288)"
+       id="g6192">
+      <circle
+         cy="463.09201"
+         cx="113.796"
+         r="1.196"
+         id="circle6189"
+         style="fill:#383938" />
+      <circle
+         cy="463.091"
+         gorn="0.1.0.0.0.0.31.1"
+         cx="113.796"
+         id="connector23pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="translate(-110.015,-437.288)"
+       id="g6197">
+      <circle
+         cy="455.892"
+         cx="113.769"
+         r="1.196"
+         id="circle6194"
+         style="fill:#383938" />
+      <circle
+         cy="455.89099"
+         gorn="0.1.0.0.0.0.32.1"
+         cx="113.769"
+         id="connector24pin"
+         r="1.584"
+         style="fill:none;stroke:#9a916c;stroke-width:1.15199995" />
+    </g>
+    <circle
+       cy="40.002987"
+       cx="3.7539971"
+       r="1.196"
+       id="circle6487"
+       style="fill:#383938" />
+    <circle
+       cy="40.002987"
+       gorn="0.1.0.0.0.0.58"
+       cx="3.7539971"
+       id="connector0pin_4_"
+       r="1.584"
+       style="fill:none;stroke:#635d46;stroke-width:1.15199995" />
+    <circle
+       cy="10.754999"
+       cx="3.7809975"
+       r="1.196"
+       id="circle6490"
+       style="fill:#383938" />
+    <circle
+       cy="10.754999"
+       gorn="0.1.0.0.0.0.60"
+       cx="3.7809975"
+       id="connector0pin_5_"
+       r="1.584"
+       style="fill:none;stroke:#635d46;stroke-width:1.15199995" />
+  </g>
+</svg>
