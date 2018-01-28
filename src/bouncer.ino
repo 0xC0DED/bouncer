@@ -1,3 +1,4 @@
+#include <Ticker.h>
 
 #define TRIGGER 4
 #define ECHO 5
@@ -7,22 +8,35 @@
 #define READING_COUNT 3
 #define BUTTON_SECONDARY 4000
 
+Ticker sensor;
 unsigned long buttonDown = 0;
+long currentDistance = 0;
+bool printDistance = false;
+
+void getDistance()
+{
+    currentDistance = readDistance();
+    printDistance = true;
+}
 
 void setup() {
-  Serial.begin(9600);
-  pinMode(TRIGGER, OUTPUT);
-  pinMode(ECHO, INPUT);
-  pinMode(LIGHT, OUTPUT);
-  pinMode(DOOR, OUTPUT);
-  pinMode(BUTTON, INPUT);
+    Serial.begin(9600);
+    pinMode(TRIGGER, OUTPUT);
+    pinMode(ECHO, INPUT);
+    pinMode(LIGHT, OUTPUT);
+    pinMode(DOOR, OUTPUT);
+    pinMode(BUTTON, INPUT);
+
+    sensor.attach(3, getDistance);
 }
 
 void loop() {
-    long distance = readDistance();
-
-    Serial.print("Inches: ");
-    Serial.println(distance);
+    if (printDistance)
+    {
+        printDistance = false;
+        Serial.print("Inches: ");
+        Serial.println(currentDistance);
+    }
 
     int button = readButton();
     if (button > 0)
@@ -30,8 +44,6 @@ void loop() {
         Serial.print("Button: ");
         Serial.println(button);
     }
-
-    delay(500);
 }
 
 // Just playing with button duration for a multi-function single button.
@@ -40,29 +52,21 @@ int readButton()
     if (buttonDown == 0 && digitalRead(BUTTON) == LOW) 
     {
         buttonDown = millis();
-        Serial.print("Button down: ");
-        Serial.println(buttonDown);
-        return 0;
     }
-    else if (digitalRead(BUTTON) == HIGH && buttonDown > 0)
+    else if (buttonDown > 0 && digitalRead(BUTTON) == HIGH)
     {
-        unsigned long buttonUp = millis();
-        unsigned long elapsed = buttonUp - buttonDown;
-
-        Serial.print("Elapsed button time: ");
-        Serial.println(elapsed);
-
-        buttonDown = 0;
-        if (elapsed > BUTTON_SECONDARY)
+        if (millis() - buttonDown > BUTTON_SECONDARY)
         {
+            buttonDown = 0;
             return 2;
         }
         else
         {
+            buttonDown = 0;
             return 1;
-        }        
+        }
     }
-
+    return 0;
 }
 
 // Grab the reading from the hc-sr04. Was playing around with the idea
@@ -80,9 +84,6 @@ long readDistance()
   digitalWrite(TRIGGER, LOW);
   duration = pulseIn(ECHO, HIGH);
   distance =  duration / 148.0;
-
-  // If there isn't a big enough delay, I noticed a lot of error in the readings.
-  delay(200);
 
   return distance;
 }

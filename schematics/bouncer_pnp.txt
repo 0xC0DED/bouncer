@@ -1,0 +1,101 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=bouncer
+*Date=22:13:36
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;31.5215;-56.2192;0;Bottom;Copper Fill35
+2;;;50.1397;-53.6792;0;Bottom;Copper Fill38
+3;;;44.475;-23.1614;0;Bottom;TXT1
+4;;THT;49.5964;-7.90524;0;Bottom;J1
+5;;;52.6543;-18.1193;0;Bottom;Copper Fill21
+6;;;53.7846;-40.1284;0;Bottom;Copper Fill25
+7;15k;THT;45.9665;-53.6443;90;Bottom;R1
+8;;;48.4506;-27.4538;0;Bottom;Copper Fill28
+9;;;26.9162;-56.1839;0;Bottom;hc-sr1
+10;;;54.6355;-40.9793;0;Bottom;Copper Fill26
+11;;;48.3288;-56.1331;0;Bottom;TXT1
+12;;;50.1397;-53.6792;0;Bottom;Copper Fill19
+13;;;10.3505;-31.5178;0;Bottom;Copper Fill10
+14;;;10.3505;-30.1716;0;Bottom;Copper Fill11
+15;;;2.7305;-33.9816;0;Bottom;Copper Fill14
+16;;;26.7553;-60.3858;0;Bottom;TXT3
+17;12V;THT;28.1865;-14.4644;90;Bottom;OMRON1
+18;;;49.6063;-22.9453;0;Bottom;Copper Fill23
+19;;TO92 [THT];48.4176;-30.9748;90;Bottom;Q3
+20;;;52.597;-42.8815;0;Bottom;TXT4
+21;;;10.3505;-31.5178;0;Bottom;Copper Fill39
+22;;;20.8569;-40.9439;0;Bottom;Adafruit HUZZAH ESP8266 Breakout2
+23;;;30.6706;-55.3937;0;Bottom;Copper Fill34
+24;;;50.7607;-19.1638;180;Bottom;Power plug1
+25;;;41.6828;-16.5441;0;Bottom;TXT1
+26;;;9.6774;-30.8193;0;Bottom;Copper Fill12
+27;;;48.1575;-48.3993;0;Bottom;TXT1
+28;;;44.6787;-47.3166;0;Bottom;Copper Fill31
+29;;;2.7305;-35.3278;0;Bottom;Copper Fill13
+30;;;48.265;-53.3827;0;Bottom;TXT1
+31;10k;THT;48.5065;-40.9443;90;Bottom;R5
+32;;;26.3887;-53.8116;0;Bottom;TXT2
+33;;;10.8449;-14.3806;0;Bottom;TXT1
+34;;;2.0574;-34.6293;0;Bottom;Copper Fill43
+35;;;28.7675;-14.4041;0;Bottom;TXT1
+36;;;40.7971;-39.7532;0;Bottom;TXT1
+37;;;53.7846;-41.8556;0;Bottom;Copper Fill24
+38;;;50.9906;-52.8537;0;Bottom;Copper Fill18
+39;;;44.6787;-47.3166;0;Bottom;Copper Fill2
+40;33k;THT;43.4265;-53.6443;90;Bottom;R2
+41;;;2.7305;-35.3278;0;Bottom;Copper Fill41
+42;;;2.7305;-33.9816;0;Bottom;Copper Fill42
+43;;;2.0574;-34.6293;0;Bottom;Copper Fill15
+44;;;50.9906;-47.7738;0;Bottom;Copper Fill7
+45;1k;THT;45.9665;-40.9443;-90;Bottom;R4
+46;;;46.2789;-22.9453;0;Bottom;Copper Fill22
+47;;;40.8524;-56.0833;0;Bottom;TXT1
+48;;;46.2789;-22.9453;0;Bottom;Copper Fill46
+49;1k;THT;43.4265;-40.9443;-90;Bottom;R3
+50;;;39.5805;-11.4537;0;Bottom;TXT1
+51;;;52.6543;-18.1193;0;Bottom;Copper Fill45
+52;;;28.2702;-35.8611;0;Bottom;Copper Fill3
+53;;;53.1095;-30.0119;90;Bottom;IMG1
+54;;;2.78645;-68.8843;0;Bottom;Hole1
+55;;;9.6774;-51.1392;0;Bottom;Copper Fill9
+56;;;3.4036;-34.6293;0;Bottom;Copper Fill16
+57;;;40.7971;-41.8566;0;Bottom;TXT1
+58;;;50.9906;-16.481;0;Bottom;Copper Fill44
+59;;;1.7526;-69.9733;0;Bottom;Copper Fill1
+60;;TO92 [THT];43.3376;-30.9748;90;Bottom;Q1
+61;0.47mF;100 mil [THT, electrolytic];52.3165;-53.6443;0;Bottom;C5
+62;;;42.5197;-28.2793;0;Bottom;Copper Fill27
+63;;;40.8864;-2.84439;0;Bottom;Hole3
+64;;;45.9106;-59.6101;0;Bottom;Copper Fill4
+65;;;53.5864;-68.8843;0;Bottom;Hole2
+66;;;50.9906;-54.5301;0;Bottom;Copper Fill17
+67;;;49.3015;-28.2793;0;Bottom;Copper Fill29
+68;;;28.2702;-35.8611;0;Bottom;Copper Fill33
+69;;;10.3505;-50.4915;0;Bottom;Copper Fill37
+70;;;46.7615;-58.7592;0;Bottom;Copper Fill5
+71;;;40.7971;-43.8491;0;Bottom;TXT1
+72;12V;THT;10.4065;-14.4644;90;Bottom;OMRON3
+73;;;9.6774;-30.8193;0;Bottom;Copper Fill40
+74;;;45.9106;-57.9337;0;Bottom;Copper Fill36
+75;;;50.9906;-16.481;0;Bottom;Copper Fill20
+76;1µF;100 mil [THT, electrolytic];52.3165;-48.5643;0;Bottom;C6
+77;;;47.1933;-34.261;0;Bottom;Copper Fill32
+78;1µF;100 mil [THT, electrolytic];39.6165;-7.92429;0;Bottom;C7
+79;;molex-1x2_lock;52.4435;-41.1983;0;Bottom;JP1
+80;;;54.6355;-40.9793;0;Bottom;Copper Fill47
+81;;;22.2871;-40.9884;0;Bottom;TXT1
+82;;;10.3505;-50.4915;0;Bottom;Copper Fill8
+83;;;43.3706;-27.4538;0;Bottom;Copper Fill49
+84;;;49.3015;-28.2793;0;Bottom;Copper Fill48
+85;;;50.9906;-49.4501;0;Bottom;Copper Fill6
+86;;;1.7526;-69.9733;0;Bottom;Copper Fill30
